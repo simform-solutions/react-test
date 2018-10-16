@@ -1,0 +1,2 @@
+export const ON_MODAL_TOGGLE = "ON_MODAL_TOGGLE";
+export const ON_IMAGE_UPDATE = "ON_IMAGE_UPDATE";
