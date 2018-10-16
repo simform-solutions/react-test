@@ -17,7 +17,9 @@ cd product-admin-panel && npm start
 
 3. I was supposed to build react.js frontend application with graph QL endpoints but couldn't get time to do that due to 4 hrs limit.
 
-4. Added some HOCs like asyncRender, privatRoute , presenter with redux
+4. Added some HOCs like asyncRender, privatRoute , presenter with redux. 
+
+5. Please find screenshots from screenshot folder.
 
 ## Backend
 1. Created schema for product list and created mutation to add product.
