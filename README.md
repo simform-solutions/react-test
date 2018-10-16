@@ -1,4 +1,4 @@
-This repository contain two folder one for front end and another for backend.
+This repository contains two folders one for the front end and another for backend.
 
 ## Start Instructions server: 
 cd server && node index
@@ -6,16 +6,16 @@ cd server && node index
 ## Start Instructions client: 
 cd product-admin-panel && npm start
 
-## Forked from my own github repository.
+## Forked from my own GitHub repository.
  https://github.com/vipinyadav610/webpack4-react-setup
  
 ## How Program Works :
 ## Frontend : 
-1. I added product list table view in product admin panel and added admin panel layout with sidebar and header. Created some custom components to demonstrate react.js skill set.(I am aware that design wasn't important for you, by mistake spent some more time on design side.)
+1. I added product list table view in product admin panel and added admin panel layout with sidebar and header. Created some custom components to demonstrate react.js skill set. (I am aware that design wasn't important for you, by mistake spent some more time on the design side.)
 
-2. Used react.js, Redux, React-router, error-boundries, appolo client, EsLint in front end application. 
+2. Used react.js, Redux, React-router, error-boundaries, apollo client, EsLint in frontend application. 
 
-3. I was supposed to build react.js front end application with graph QL endpoints but couldn't get time to do that due to 4 hrs limit.
+3. I was supposed to build react.js frontend application with graph QL endpoints but couldn't get time to do that due to 4 hrs limit.
 
 4. Added some HOCs like asyncRender, privatRoute , presenter with redux
 
@@ -32,8 +32,8 @@ cd product-admin-panel && npm start
 3. Jest test case is pending to add.
 
 ## Suggestions
-1. I could use story book for componenets but did't added that due to limited time.
+1. I could use storybook for components but didn't add that due to limited time.
 2. Added SCSS in the project but could use stylus for better formatting.
 3. Could add pre-commit hook with husky to prevent pushing buggy code.
-4. I could use server side rendering for website crawling.
+4. I could use server-side rendering for website crawling.
 5. I could use recompose for functional components.
